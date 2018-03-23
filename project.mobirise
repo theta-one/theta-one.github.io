@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Theta",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -239,7 +239,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KONTAKTI",
-          "text": "email: theta.one@yandex.com <br>mob: 0653163148",
+          "text": "email: theta.one@protonmail.com <br>mob: 0653163148",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
             "Theme"
