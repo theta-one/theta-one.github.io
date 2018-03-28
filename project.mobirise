@@ -216,6 +216,10 @@
             ".mbr-section-subtitle": {
               "color": "#a0a0a0",
               "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             }
           },
           "_params": {
@@ -239,7 +243,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KONTAKT<br><br>",
-          "text": "Branka Zorić<div>Theta praktičar od 2009</div><div>Theta instruktor od 2017</div><div>email: theta.one@protonmail.com</div><div>mob: 0653163148, O64 5877 358</div>",
+          "text": "Branka Zorić<div>Theta praktičar od 2009</div><div>Theta instruktor od 2017</div><div>email: theta.one@protonmail.com</div><div>mob: 0653163148, O645877358</div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Sertifikati</a> ",
           "_tags": [
             "Theme"
