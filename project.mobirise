@@ -1084,7 +1084,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-2r"
+          "_anchor": "menu-2c"
         },
         {
           "_inherit": "gallery1",
