@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "siteFonts": []
@@ -245,7 +245,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KONTAKT<br><br>",
-          "text": "Branka Zorić<div>Theta praktičar od 2009</div><div>Theta instruktor od 2017</div><div>email: theta.one@protonmail.com</div><div>mob: 0653163148</div><br><div><a href=\"page5.html\">Sertifikati</a></div>",
+          "text": "Branka Zorić<div>Theta praktičar od 2009</div><div>Theta instruktor od 2017</div><div>email: theta.one@protonmail.com</div><div>mob: 0653163148</div><br><div>O meni:</div><div><a href=\"http://antistresvodic.rs/branka-zoric-isceljujuca-energija-ljubavi/\" target=\"_blank\">link1</a>, <a href=\"https://www.lovesensa.rs/clanci/psihologija/cetiri-nivoa-podsvesti-koja-formiraju-nasu-licnost-osnovni-genetski-istorijski-i-nivo-duse\" target=\"_blank\">link2</a>, <a href=\"https://atma.hr/kad-podsvijesni-teret-stvara-teskoce-ciscenje-od-loseg-energetskog-naslijeda/\" target=\"_blank\">link3</a></div><br><div><a href=\"page5.html\">Sertifikati</a></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Sertifikati</a> ",
           "_tags": [
             "Theme"
@@ -259,7 +259,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Seminari",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -537,7 +537,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Osnovni",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -695,7 +695,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Napredni",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -855,7 +855,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Sertifikati",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -995,7 +995,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Galerija",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
