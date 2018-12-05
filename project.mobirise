@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Theta",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,20 +21,21 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#87bcbe",
         "#d7eaea",
         "#c6dede",
         "#5fafac",
         "#519492",
         "#ba9e70",
-        "#232323",
-        "#44514f"
+        "#232323"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
     "uniqCompNum": 101,
-    "versionPublish": "4.5.4",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.8.6",
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -142,7 +143,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -150,9 +151,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.2"
           },
           "title": "THETA HEALING",
           "text": "Theta healing je meditativni proces promene podsvesnih&nbsp;uverenja koja nam otežavaju svakodnevni život.",
@@ -244,7 +245,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KONTAKT<br><br>",
-          "text": "Branka Zorić<div>Theta praktičar od 2009</div><div>Theta instruktor od 2017</div><div>email: theta.one@protonmail.com</div><div>mob: 0653163148, O645877358</div><br><div><a href=\"page5.html\">Sertifikati</a></div>",
+          "text": "Branka Zorić<div>Theta praktičar od 2009</div><div>Theta instruktor od 2017</div><div>email: theta.one@protonmail.com</div><div>mob: 0653163148</div><br><div><a href=\"page5.html\">Sertifikati</a></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Sertifikati</a> ",
           "_tags": [
             "Theme"
@@ -671,7 +672,7 @@
             }
           },
           "title": "Osnovni DNK Seminar",
-          "text": "<br>Na osnovnom seminaru učesnici se upoznaju sa samom tehnikom, sa osnivačem Theta healinga , Vajanom Stibal, njenim radom i iskustvom ličnog trenutnog isceljenja .<br><br>Povezaće te se sa poljem Stvaranja i ulaženjem u theta moždane talase.<br><br>Naučićete kako da posmatrate prostor aure.<br><br>Da spoznate negativna uverenja i da ih menjate.<br><br>Upoznaće te se sa nivoima podsvesti<br><br>Promenom gena kroz rad na verovanjima<br><br>Aktiviranjem hromozoma mladosti i vitalnosti<br><br>Vraćanjem fragmeta duše, očitavanjem budućnosti , pronalaženjem i prepoznavanjem srodne duše...<br><br>Instaliranje programa za vaš lični razvoj.<br><br>Seminar traje od 30 marta do 1 aprila 2018<br>I dan od 17h do 21h<br>II dan i III dan od 9h do 17h<br><br>Učesnici kursa dobijaju priručnik o Theta tehnici i knjigu <br>\"Theta isceljivanje\"  Vianna Stibal.<br><br>Svaki učesnik seminara dobija sertifikat i postaje theta praktičar.<br>",
+          "text": "<br>Na osnovnom seminaru učesnici se upoznaju sa samom tehnikom, sa osnivačem Theta healinga , Vajanom Stibal, njenim radom i iskustvom ličnog trenutnog isceljenja .<br><br>Povezaće te se sa poljem Stvaranja i ulaženjem u theta moždane talase.<br><br>Naučićete kako da posmatrate prostor aure.<br><br>Da spoznate negativna uverenja i da ih menjate.<br><br>Upoznaće te se sa nivoima podsvesti<br><br>Promenom gena kroz rad na verovanjima<br><br>Aktiviranjem hromozoma mladosti i vitalnosti<br><br>Vraćanjem fragmeta duše, očitavanjem budućnosti , pronalaženjem i prepoznavanjem srodne duše...<br><br>Instaliranje programa za vaš lični razvoj.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
